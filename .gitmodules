@@ -1,0 +1,6 @@
+[submodule "lms-be"]
+	path = lms-be
+	url = git@github.com:tunguyen1104/lms-be.git
+[submodule "skill-bridge-fe"]
+	path = skill-bridge-fe
+	url = git@github.com:Giappp/skill-bridge-fe.git
